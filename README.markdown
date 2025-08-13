@@ -10,7 +10,6 @@ This project develops a predictive model for Shield Insurance to estimate health
 - [Features](#features)
 - [Model Details](#model-details)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
