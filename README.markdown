@@ -152,8 +152,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For questions or feedback, reach out to:
-- Your Name: your.email@example.com
-- GitHub: [your-username](https://github.com/your-username)
-- Project Link: [https://github.com/your-username/health-insurance-predictor](https://github.com/your-username/health-insurance-predictor)
-
-*Project from Codebasics ML Course. All rights reserved: Codebasics.io*
+- Your Name: kavineshdhanush@gmail.com
