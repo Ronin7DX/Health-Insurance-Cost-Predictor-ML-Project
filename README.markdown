@@ -1,4 +1,4 @@
-# Predictive Health Insurance Model for Shield Insurance
+# Health Insurance Cost Predictor ML Project for Shield Insurance
 
 ## Description
 This project develops a predictive model for Shield Insurance to estimate health insurance premiums based on factors such as age, smoking habits, BMI, medical history, and genetic risk. Built using Python, it employs Linear Regression models segmented by age (young: ≤25 years, rest: >25 years) to achieve >97% accuracy, with only 0.3% of predictions having errors >10%, meeting the requirement that 95% of errors are <10%. A Streamlit-based application enables insurance underwriters to input client data and receive real-time premium predictions. The project fulfills Phase 1 (MVP) requirements of the Statement of Work (SOW) with AtliQ AI.
