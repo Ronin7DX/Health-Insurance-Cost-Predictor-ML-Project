@@ -147,9 +147,6 @@ Contributions are welcome! To contribute:
 
 Please follow PEP 8 standards and include tests for new features.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For questions or feedback, reach out to:
 - Your Name: kavineshdhanush@gmail.com
